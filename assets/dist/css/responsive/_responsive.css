@@ -1,0 +1,280 @@
+@media  (max-width: 1550px) {
+    main .dok_development-bloc .dok_development-bloc-title h1{
+        font-size: 2rem;
+    }
+    main .dok_development-bloc .dok_development-bloc-btn{
+        width: 145px;
+    }
+    main .dok_development-bloc .dok_development-bloc-btn a{
+        font-size: .8rem;
+    }
+
+
+    section:first-of-type .dok_development .dok_development-video iframe{
+        height: 38.5vh;
+    }
+    section:first-of-type .dok_development .dok_development-video-filter{
+        width: 100%;
+        padding: 20%;
+    }
+    section:first-of-type .dok_development .dok_development-form form input{
+        height: 70px;
+    }
+    section:first-of-type .dok_development .dok_development-form form .btn-style button{
+        font-size: 1.1rem;
+    }
+
+    section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
+        font-size: 1.5rem;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-text p{
+        font-size: 1.1rem;
+    }
+
+
+    section:nth-of-type(3) .dok_content{
+        padding: 5% 0;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-title h2{
+        font-size: 2rem;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-describe h2{
+        font-size: 1.8rem
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-img{
+        width: 60%;
+        margin: 5% auto;
+    }
+
+
+    section:nth-of-type(4) .dok_development .dok_development-bloc-text p{  
+        font-size: 1.3rem;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-img{
+        width: 87%;
+        height: 500px;
+        margin-left: auto;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-img{
+        object-fit: cover;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-title h3{
+        font-size: 1.8rem;
+    }
+   
+
+    footer .dok_development .dok_development-bloc-btn a{
+        font-size: 1rem;
+    }
+}
+
+
+@media (max-width: 1050px){
+    section:first-of-type .dok_development .dok_development-video iframe{
+        height: 20vh;
+    }
+    section:first-of-type .dok_development .dok_development-form form input{
+        height: 60px;
+    }
+    section:first-of-type .dok_development .dok_development-form form .btn-style button{
+        font-size: 1rem;
+    }
+
+
+    section:nth-of-type(3) .dok_development .dok_development-bloc-img{
+        width: 50%;
+        margin: 5% auto;
+    }
+
+
+    section:nth-of-type(4) .dok_development .dok_development-bloc-text p{  
+        font-size: 1.1rem;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-img{
+        width: 90%;
+        height: 450px;
+        margin-left: auto;
+    }
+}
+
+
+
+@media (max-width: 780px){
+    main .dok_development-bloc .dok_development-bloc-banner-img{
+        width: 90%;
+    }
+    main .dok_development-bloc .dok_development-bloc-logo-img{
+        width: 18%
+    }
+    main .dok_development-bloc .dok_development-bloc-title h1{
+        font-size: 1.5rem;
+    }
+    main .dok_development-bloc .dok_development-bloc-btn{
+        margin: 0;
+    }
+
+
+    section:first-of-type .dok_development .dok_development-video{
+        margin: 20% auto;
+    }
+    section:first-of-type .dok_development .dok_development-video iframe{
+        height: 16vh;
+    }
+    section:first-of-type .dok_development .dok_development-form{
+        width: 100%;
+    }   
+    section:first-of-type .dok_development .dok_development-form form input{
+        height: 50px;
+    }
+    section:first-of-type .dok_development .dok_development-form form .btn-style button{
+        font-size: .9rem;
+        padding: 3% 5%;
+    }
+    .failed-send{
+        font-size: .6rem;
+    }
+
+
+    section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
+        font-size: 1.1rem;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-icon{
+        width: 55%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-text p{
+        font-size: .9rem;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(2) .dok_development-box-info-icon{
+        width: 48%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(3) .dok_development-box-info-icon{
+        width: 40%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(4) .dok_development-box-info-icon{
+        width: 77%;
+    }
+
+
+    section:nth-of-type(3) .dok_development .dok_development-bloc-title h2{
+        font-size: 1.5rem;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-describe h2{
+        font-size: 1.4rem;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-img{
+        width: 60%;
+    }
+
+    section:nth-of-type(4) .dok_development .dok_development-bloc-title h3{
+        font-size: 1.4rem;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-text p{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 550px){
+    main .dok_states .dok_development{
+        flex-direction: column-reverse;
+    }
+    main .dok_development-bloc .dok_development-bloc-banner-img{
+        margin: 4% auto 0;
+    }
+    main .dok_development-bloc .dok_development-bloc-logo-img{
+        width: 35%;
+        margin: 0 auto;
+    }
+    main .dok_development-bloc .dok_development-bloc-title h1{
+        text-align: center;
+        line-height: 1.5;
+        font-size: 1.8rem;
+    }
+    main .dok_development-bloc .dok_development-bloc-btn{
+        position: relative;
+        right: 0;
+        margin: 6% auto;
+        width: 190px;
+    }
+    main .dok_development-bloc .dok_development-bloc-btn a{
+        font-size: 1rem;
+        font-weight: 700;
+    }
+
+
+    section:first-of-type .dok_development .dok_development-video iframe{
+        height: 150px;
+    }
+    section:first-of-type .dok_development .dok_development-form{
+        margin: 0 0 15%;
+    }
+    section:first-of-type .dok_development .dok_development-form form input{
+        height: 70px;
+    }
+    section:first-of-type .dok_development .dok_development-form form .btn-style button{
+        font-size: 1.2rem;
+    }
+    .failed{
+        bottom: -14%;
+    }
+    .failed-send{
+        font-size: .6rem;
+    }
+
+    
+    section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
+        font-size: 1.8rem;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info{
+        width: 100%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info--content{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-icon{
+        width: 30% !important;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(4) .dok_development-box-info-icon-img{
+        padding: 16% 16%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-text {
+        text-align: center;
+        margin-top: 5%;
+    }
+    section:nth-of-type(2) .dok_development .dok_development-box-info-text p{
+        font-size: 1.2rem;
+    }
+
+    section:nth-of-type(3) .dok_development .dok_development-bloc-title{
+        text-align: center;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-title h2{
+        font-size: 2rem;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-describe{
+        text-align: center;
+    }
+    section:nth-of-type(3) .dok_development .dok_development-bloc-describe h2{
+        font-size: 1.8rem;
+    }
+
+
+    section:nth-of-type(4) article:first-of-type .container{
+        padding: 0;
+    }
+    section:nth-of-type(4) .dok_development .dok_development-bloc-img{
+        height: 100%;
+        width: 100%;
+        margin-top: 10%;
+    }
+    .mg-0{
+        margin-bottom: 9% !important;
+    }
+
+
+    footer .dok_development .dok_development-bloc-btn a{
+        font-size: 1rem;
+        padding: 5.5% 15%;
+        display: block;
+    }
+}

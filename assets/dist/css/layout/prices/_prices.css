@@ -1,0 +1,88 @@
+section:nth-of-type(2) .dok_development .dok_development-bloc-title{
+    margin-bottom: 5%;
+}
+section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
+    text-align: center;
+    font-weight: 700;
+    padding-right: 5%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info--content{
+    display: flex;
+    width: 90%;
+    background: #F9F9F9;
+    padding: 7% 3%;
+    justify-content: center;
+}
+section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
+    color: var(--color-title-default);
+}
+section:nth-of-type(2) .dok_development .dok_development-box-info{
+    width: 50%;
+    margin-bottom: 5%;
+}
+section:nth-of-type(2) .dok_development .dok_development-box-info-icon{
+    width: 45%;
+}
+section:nth-of-type(2) .dok_development .dok_development-box-info-icon-img{
+    background-color: var(--color-second);
+    padding: 15%;
+    border-radius: 4rem;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info-text{
+    padding-left: 5%;
+}
+section:nth-of-type(2) .dok_development .dok_development-box-info-text p{
+    font-size: 1.4rem;
+    color: var(--color-text);
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(2) 
+.dok_development-box-info-icon{
+    width: 38%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(2) 
+.dok_development-box-info-icon-img{
+    padding: 22% 12%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(2) 
+.dok_development-box-info-icon-img img{
+    width: 80%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(3) 
+.dok_development-box-info-icon{
+    width: 35%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(3) 
+.dok_development-box-info-icon-img{
+    text-align: center;
+    padding: 20% 0%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(3) 
+.dok_development-box-info-icon-img img{
+    width: 58%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(4) 
+.dok_development-box-info-icon{
+    width: 64%;
+}
+
+section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(4) 
+.dok_development-box-info-icon-img {
+    padding: 21% 17%;
+}

@@ -1,0 +1,45 @@
+main{
+    background: url(../../../../src/img/cars-on-highway-in-traffic-jam.png) no-repeat center center scroll;
+    background-size: cover;
+    padding-top: 8%;
+}
+
+main .dok_states{
+    position: relative;
+}
+
+main .dok_development-bloc .dok_development-bloc-banner-img{
+    width: 85%;
+}
+
+main .dok_development-bloc .dok_development-bloc-logo-img{
+    width: 16%;
+}
+
+main .dok_development-bloc .dok_development-bloc-title{
+    margin-top: 13%;
+}
+
+main .dok_development-bloc .dok_development-bloc-title h1{
+    font-weight: 800;
+    font-size: 3rem;
+    color: var(--color-second);
+}
+
+main .dok_development-bloc .dok_development-bloc-btn{
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 5vw;
+    width: 177px;
+}
+
+main .dok_development-bloc .dok_development-bloc-btn a{
+    display: block;
+    background: var(--color-btn);
+    color: var(--color-third);
+    letter-spacing: .1rem;
+    font-size: 1.1rem;
+    padding: 7% 5%;
+    border-radius: 2rem;
+}

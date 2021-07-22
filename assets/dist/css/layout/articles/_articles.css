@@ -1,0 +1,24 @@
+section:nth-of-type(4) .dok_development .dok_development-bloc-img{
+    width: 85%;
+    margin-left: 5%;
+}
+
+section:nth-of-type(4) .dok_development .dok_development-bloc-text p{
+    font-size: 1.8rem;
+    text-align: justify;
+    line-height: 1.7;
+    color: var(--color-text);
+}
+
+section:nth-of-type(4) .dok_development .dok_development-bloc-text p span{
+    color: var(--color-second);
+}
+
+section:nth-of-type(4) .dok_development .dok_development-bloc-title{
+   text-align: center;
+}
+
+section:nth-of-type(4) .dok_development .dok_development-bloc-title h3{
+    font-size: 2.4rem;
+    color: var(--color-title-default);
+ }

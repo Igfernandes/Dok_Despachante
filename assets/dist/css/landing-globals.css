@@ -1,0 +1,29 @@
+/**
+* LIBARY 
+**/
+
+@import '../../../includes/normalize/normalize.css';
+@import './libary/bootstrap.min.css';
+@import './libary/bootstrap.rtl.min.css';
+
+
+/**
+* GLOBALS
+**/
+@import './globals/_fonts.css';
+@import './globals/_tags.css';
+@import './globals/_vars.css';
+
+
+/**
+* LAYOUT
+**/
+
+@import './layout/main/_main.css';
+@import './layout/form/_form.css';
+@import './layout/prices/_prices.css';
+@import './layout/info/_info.css';
+@import './layout/articles/_articles.css';
+@import './layout/footer/_footer.css';
+
+@import './responsive/_responsive.css';

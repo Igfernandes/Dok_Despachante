@@ -1,0 +1,9 @@
+footer .dok_development .dok_development-bloc-btn{
+    text-align: center;
+}
+
+footer .dok_development .dok_development-bloc-btn a{
+    padding: 1.5% 15%;
+    font-weight: 600;
+    font-size: 1.5rem;
+}

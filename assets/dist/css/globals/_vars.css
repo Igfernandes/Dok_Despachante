@@ -1,0 +1,32 @@
+:root{
+
+    /**
+    * COLORS 
+    **/
+    --color-first: #676767;
+    --color-second: #E12C30;
+    --color-third: #fff;
+
+    --color-text: #676767;
+    --color-title-clean: #fff;
+    --color-title-default: #676767;
+    --color-btn: linear-gradient(90deg, #12D01A 17.21%, #12D01A 78.69%);
+ 
+    /**
+    * SIZES
+    **/
+
+    --size-text: 00;
+    --size-mob-text: 00;
+
+    --size-title: 00;
+    --size-mob-title: 00;
+
+
+    /**
+    *   OTHERS
+    **/
+
+    --transition-default: .3s ease-in-out;
+
+}

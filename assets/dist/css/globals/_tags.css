@@ -1,0 +1,93 @@
+*{
+    font-family: "OpenSans";
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover{
+    color: var(--color-third);
+}
+
+button{
+    cursor: pointer;
+    outline-style: none;
+}
+button:hover, button:focus, button:active{
+    color: var(--color-third) !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+p, h1, h2, h3, h4, h5, h6{
+    margin-bottom: 0;
+}
+
+input{
+    outline-style: none;
+}
+
+input[type="number"]:-webkit-any(){
+    display: none;
+}
+
+textarea::-webkit-scrollbar{
+    display: none;
+}
+
+.btn-style{
+    margin: 1rem;
+}
+.btn-style button, .btn-style a{
+    background: var(--color-btn);
+    color: var(--color-third);
+    border-radius: 2rem;
+}
+
+.mg-0{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+}
+
+.invalid{
+    color: var(--color-second);
+}
+
+.sucess-send{
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 25% 0;
+}
+
+.failed{
+    position: absolute;
+    bottom: -19%;
+    width: 100%;
+    transition: all var(--transition-defaul);
+}
+
+.failed-send{
+    font-weight: 600;
+    font-size: .8rem;
+    text-align: center;
+    color: var(--color-second);
+    background: #f4f4f4eb;
+    border-radius: .5rem;
+    padding: 2% 3%;
+    transition: all var(--transition-defaul);
+}

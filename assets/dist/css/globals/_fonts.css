@@ -1,0 +1,67 @@
+/**
+*   REGISTER FONTS
+**/
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 300;
+    font-style: normal;
+    src: url(./../../../src/fonts/OpenSans-Light.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 300;
+    font-style: italic;
+    src: url(./../../../src/fonts/OpenSans-LightItalic.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-style: normal;
+    src: url(./../../../src/fonts/OpenSans-Regular.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 600;
+    font-style: normal;
+    src: url(./../../../src/fonts/OpenSans-SemiBold.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 600;
+    font-style: italic;
+    src: url(./../../../src/fonts/OpenSans-SemiBoldItalic.ttf) format('TrueType');
+}
+
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-style: normal;
+    src: url(./../../../src/fonts/OpenSans-Bold.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 700;
+    font-style: italic;
+    src: url(./../../../src/fonts/OpenSans-BoldItalic.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 800;
+    font-style: normal;
+    src: url(./../../../src/fonts/OpenSans-ExtraBold.ttf) format('TrueType');
+}
+
+@font-face{
+    font-family: 'OpenSans';
+    font-weight: 800;
+    font-style: italic;
+    src: url(./../../../src/fonts/OpenSans-ExtraBoldItalic.ttf) format('TrueType');
+}
