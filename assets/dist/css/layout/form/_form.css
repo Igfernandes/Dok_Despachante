@@ -24,6 +24,9 @@ section:first-of-type .dok_development .dok_development-video-filter{
     margin: 0 auto;
     cursor: pointer;
     transition: opacity var(--transition-default);
+    -o-transition: opacity var(--transition-default);
+    -moz-transition: opacity var(--transition-default);
+    -webkit-transition: opacity var(--transition-default);
 }
 
 section:first-of-type .dok_development .dok_development-video-filter img{
@@ -67,6 +70,9 @@ section:first-of-type .dok_development .dok_development-form .form-group::after{
     background-size: cover;
     padding: 4%;
     transition: opacity var(--transition-default);
+    -o-transition: opacity var(--transition-default);
+    -moz-transition: opacity var(--transition-default);
+    -webkit-transition: opacity var(--transition-default);
     opacity: 0;
 }
 

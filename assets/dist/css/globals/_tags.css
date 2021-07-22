@@ -79,6 +79,9 @@ textarea::-webkit-scrollbar{
     bottom: -19%;
     width: 100%;
     transition: all var(--transition-defaul);
+    -o-transition: all var(--transition-defaul);
+    -moz-transition: all var(--transition-defaul);
+    -webkit-transition: all var(--transition-defaul);
 }
 
 .failed-send{
@@ -90,4 +93,7 @@ textarea::-webkit-scrollbar{
     border-radius: .5rem;
     padding: 2% 3%;
     transition: all var(--transition-defaul);
+    -o-transition: all var(--transition-defaul);
+    -moz-transition: all var(--transition-defaul);
+    -webkit-transition: all var(--transition-defaul);
 }
