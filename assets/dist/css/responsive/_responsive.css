@@ -48,7 +48,7 @@
 
 
     section:nth-of-type(4) .dok_development .dok_development-bloc-text p{  
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
     section:nth-of-type(4) .dok_development .dok_development-bloc-img{
         width: 87%;
@@ -138,21 +138,10 @@
     section:nth-of-type(2) .dok_development .dok_development-bloc-title h2{
         font-size: 1.1rem;
     }
-    section:nth-of-type(2) .dok_development .dok_development-box-info-icon{
-        width: 55%;
-    }
     section:nth-of-type(2) .dok_development .dok_development-box-info-text p{
         font-size: .9rem;
     }
-    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(2) .dok_development-box-info-icon{
-        width: 48%;
-    }
-    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(3) .dok_development-box-info-icon{
-        width: 40%;
-    }
-    section:nth-of-type(2) .dok_development .dok_development-box-info:nth-of-type(4) .dok_development-box-info-icon{
-        width: 77%;
-    }
+
 
 
     section:nth-of-type(3) .dok_development .dok_development-bloc-title h2{
