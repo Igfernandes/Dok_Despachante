@@ -136,6 +136,9 @@ Na função criada de responsividade, existem as seguintes medidas:
 
 
 ### [INSTRUÇÕES] - CRIANDO ARQUIVOS - JS
+
+**AVISO: O projeto utliza recursos avançados de JS. Abra dentro de um server ou um simulador como  WampServer ou XampServer**
+
 <pre>
 - As declarações precisam ser criadas dos arquivos presentes na pasta "/main". Caso haja necessidade de criar outro, exporte e importe tudo para landing-globals.js
 </pre>
