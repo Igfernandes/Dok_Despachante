@@ -126,8 +126,6 @@ O projeto foi construído para atender a uma vaga de emprego
 | Keyframes adicioais        |  ...                                 |   
 
 
-**OBS¹: O container principal que engloba o layout respeita a configuração do bootstrap de "col-11" para dispositivos desktop e "col-12" para dispositivos com telas menores do que 1444px.**
-
 Na função criada de responsividade, existem as seguintes medidas:
 
 | Dispositivo                 | Largura    |
